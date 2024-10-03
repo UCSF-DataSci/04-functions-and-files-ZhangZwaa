@@ -46,3 +46,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
     fibonacci = some_function(args.limit)
     print(fibonacci)
+    # in fibonacci number under 50000 the largest prime number is 28657
